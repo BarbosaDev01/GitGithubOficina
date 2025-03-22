@@ -1,1 +1,17 @@
-.head
+#cabecalho{
+    align-items: center; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgray ;
+    border-radius: 30px;
+    margin: auto;
+    padding: 45px;
+    width: 25%;
+}
+h1{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 40%;
+    margin: auto;
+    border-radius: 20px;
+} 
